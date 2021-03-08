@@ -1,5 +1,5 @@
 ---
-title: "Beka"
+title: "Beka Stiling"
 image: "BekaFace.jpg"
 links:
   - label: Twitter
@@ -23,16 +23,22 @@ Times Magazine.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Washington** | Seattle, WA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+M.S. in Aquatic and Fishery Sciences | Spring 2021
 
-**The University of California, Berkeley** | Berkeley, CA
+**University of Washington** | Seattle, WA
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Aquatic and Fishery Sciences | June 2014
+
+**Wheaton College** | Wheaton, IL
+
+B.A. in Theology | May 2002
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**University of Washington** | Principal Investigator | January 2018 - Present
 
 **Netflix** | Research Scientist | June 2014 - December 2017
+
+## Hobbies
