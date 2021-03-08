@@ -2,14 +2,12 @@
 title: "Beka"
 image: "BekaFace.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/freshbeka"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/freshbeka"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:rebekahstiling@gmail.com"
 output:
   postcards::trestles
 ---
