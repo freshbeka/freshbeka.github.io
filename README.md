@@ -1,4 +1,4 @@
-#My personal website
+# My personal website
 
 This repo contains the development code for my (Beka Stiling's) personal website.
 
