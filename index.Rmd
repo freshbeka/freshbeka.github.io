@@ -1,5 +1,5 @@
 ---
-title: "Beka Stiling"
+title: "Rebekah (Beka) Stiling"
 image: "BekaFace.jpg"
 links:
   - label: Twitter
