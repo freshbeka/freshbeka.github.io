@@ -1,6 +1,6 @@
 ---
 title: "Rebekah (Beka) Stiling"
-image: "BekaFacesq.jpg"
+image: "BekaFacesq.jpeg"
 links:
   - label: Twitter
     url: "https://twitter.com/freshbeka"
