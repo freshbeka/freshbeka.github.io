@@ -14,18 +14,15 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Welcome! I am a fourth year Master of Science student studying freshwater ecology at the University of Washington in the [Olden Freshwater Ecology and Conservation Lab](http://depts.washington.edu/oldenlab/) and [Holtgrieve Ecosystem Ecology Lab](http://holtgrievelab.uw.edu/). My research interests include freshwater ecosystem function and food web ecology, specifically how upper trophic levels use carbon from differing habitats. My current projects leverage naturally occurring variability in stable isotope composition to undest     
+
+I am proudly from Madison, Wisconsin, but have called Seattle home since 2002. 
 
 ## Education
 
 **University of Washington** | Seattle, WA
 
-M.S. in Aquatic and Fishery Sciences | Spring 2021
+M.S. in Aquatic and Fishery Sciences | Spring 2021 (expected)
 
 **University of Washington** | Seattle, WA
 
@@ -37,8 +34,10 @@ B.A. in Theology | May 2002
 
 ## Experience
 
-**University of Washington** | Principal Investigator | January 2018 - Present
+**UW School of Aquatic and Fishery Sciences** | Research Scientist | July 2014 - August 2016  
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**UW Department of Medicine** | Program Operations Specialist | November 2006 - March 2014
 
 ## Hobbies
+
+I enjoy playing soccer, backpacking, hiking, and book club. 
