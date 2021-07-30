@@ -14,7 +14,7 @@ output:
  
 ## Bio
 
-Welcome! I am a fourth year Master of Science student studying freshwater ecology at the University of Washington in the [Olden Freshwater Ecology and Conservation Lab](http://depts.washington.edu/oldenlab/) and [Holtgrieve Ecosystem Ecology Lab](http://holtgrievelab.uw.edu/). My research interests include freshwater ecosystem function and food web ecology. My current projects leverage naturally occurring variability in stable isotope composition of carbon and nitrogen to better understand how and why upper trophic levels use carbon from differing habitats. I am committed to practicing Open and Reproducible Science.      
+Welcome! I am a fourth year Master of Science student studying freshwater ecology at the University of Washington in the [Olden Freshwater Ecology and Conservation Lab](http://depts.washington.edu/oldenlab/) and [Holtgrieve Ecosystem Ecology Lab](http://holtgrievelab.uw.edu/). My research interests include freshwater ecosystem function and food web ecology. My current projects leverage naturally occurring variability in stable isotope composition of carbon and nitrogen to better understand how and why upper trophic levels use carbon fixed in differing habitats. I am committed to practicing Open and Reproducible Science.      
 
 I am proudly from Madison, Wisconsin, but have called Seattle home since 2002. My highest motive for gaining the tools of a scientist are to use them to steward and conserve freshwater ecosystems.  
 
@@ -42,4 +42,4 @@ B.A. in Theology | May 2002
 
 ## Hobbies
 
-I enjoy playing soccer, backpacking, hiking, and my book club. 
+I enjoy playing soccer, backpacking, hiking, learning about how beaver-modifications to aquatic habitats impact ecosystem function, watercolor, and my book club. 
